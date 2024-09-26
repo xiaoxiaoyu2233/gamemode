@@ -64,7 +64,7 @@ end
 
 local Lib = loadstring(game:HttpGet("https://raw.githubusercontent.com/iopjklbnmsss/iopjklbnmsss/main/newgui",true))()
 
-local Win = Lib:CreateWindow("SansHub")
+local Win = Lib:CreateWindow("11111")
 
 
 function initializate(dataFolder_name: string)
